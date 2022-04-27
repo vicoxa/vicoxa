@@ -27,7 +27,7 @@ const stebs = {
                 CSS: ['sass', 'styled-components', 'Bootstrap'],
             },
             backEnd: {
-                Database: ['SQL Server', 'SQL', 'My SQL', 'Qweries']
+                Database: ['SQL Server', 'SQL', 'My SQL', 'Qweries'],
                 Languages: ['ADVPL', 'Java', 'Python']
             },
             SoftSkills: ['Curious', 'Customer service', 'Empathy'],
