@@ -38,8 +38,6 @@ const stebs = {
   </div>
 </details>
 
-[![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:victorgmatos94@gmail.com)
-[![Twitter: victor_coxa](https://img.shields.io/twitter/follow/victor_coxa?style=social)](https://twitter.com/victor_coxa)
 [![Linkedin: victormatos94](https://img.shields.io/badge/-victormatos94-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victormatos94/)](https://www.linkedin.com/in/victormatos94/)
 [![GitHub: vicoxa](https://img.shields.io/github/followers/vicoxa?label=follow&style=social)](https://github.com/vicoxa)
 </div>
